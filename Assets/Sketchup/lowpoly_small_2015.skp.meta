@@ -1,0 +1,857 @@
+fileFormatVersion: 2
+guid: cebccee0e865b4969b6e18c2bb557afd
+timeCreated: 1481721400
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b010000
+  assetHash:
+    serializedVersion: 2
+    Hash: a7d6b36aa8bdb98d73572a1a8ccf1b33
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 193.54355, y: 307.02258, z: -29.909925}
+      lookAt: {x: 110.25862, y: 32.6184, z: 86.336586}
+      up: {x: -0.5164772, y: 0.46214634, z: 0.72088283}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: big_rock
+    100002: big_rock 1
+    100004: big_rock 2
+    100006: big_rock 3
+    100008: bump01
+    100010: bump01 1
+    100012: bump02
+    100014: bump02 1
+    100016: cactus_group
+    100018: cactus_group 1
+    100020: cactus_group 2
+    100022: cactus_group 3
+    100024: cactus_group 4
+    100026: cactus_group 5
+    100028: cactus_group 6
+    100030: cactus_group 7
+    100032: Chris
+    100034: Group 101
+    100036: Group 104
+    100038: Group 106
+    100040: Group 108
+    100042: Group 110
+    100044: Group 112
+    100046: Group 114
+    100048: Group 116
+    100050: Group 119
+    100052: Group 121
+    100054: Group 123
+    100056: Group 125
+    100058: Group 127
+    100060: Group 129
+    100062: Group 131
+    100064: Group 134
+    100066: Group 136
+    100068: Group 138
+    100070: Group 140
+    100072: Group 142
+    100074: Group 144
+    100076: Group 146
+    100078: Group 149
+    100080: Group 151
+    100082: Group 153
+    100084: Group 155
+    100086: Group 157
+    100088: Group 159
+    100090: Group 161
+    100092: Group 164
+    100094: Group 166
+    100096: Group 168
+    100098: Group 170
+    100100: Group 172
+    100102: Group 174
+    100104: Group 176
+    100106: Group 2
+    100108: Group 4
+    100110: Group 59
+    100112: Group 6
+    100114: Group 61
+    100116: Group 63
+    100118: Group 65
+    100120: Group 67
+    100122: Group 69
+    100124: Group 71
+    100126: Group 74
+    100128: Group 76
+    100130: Group 78
+    100132: Group 80
+    100134: Group 82
+    100136: Group 84
+    100138: Group 86
+    100140: Group 89
+    100142: Group 91
+    100144: Group 93
+    100146: Group 95
+    100148: Group 97
+    100150: Group 99
+    100152: //RootNode
+    100154: magic_tree
+    100156: magic_tree 1
+    100158: magic_tree 10
+    100160: magic_tree 11
+    100162: magic_tree 12
+    100164: magic_tree 2
+    100166: magic_tree 3
+    100168: magic_tree 4
+    100170: magic_tree 5
+    100172: magic_tree 6
+    100174: magic_tree 7
+    100176: magic_tree 8
+    100178: magic_tree 9
+    100180: rock01
+    100182: rock_02
+    100184: rock_02 1
+    100186: rock_02 2
+    100188: rock_02 3
+    100190: rock_group01
+    100192: rock_group02
+    100194: rock_group02 1
+    100196: rock_group02 2
+    100198: rock_group03
+    100200: small_bump
+    100202: small_bump 1
+    100204: small_bump 2
+    100206: small_bump 3
+    100208: small_tree
+    100210: small_tree 1
+    100212: small_tree 10
+    100214: small_tree 11
+    100216: small_tree 2
+    100218: small_tree 3
+    100220: small_tree 4
+    100222: small_tree 5
+    100224: small_tree 6
+    100226: small_tree 7
+    100228: small_tree 8
+    100230: small_tree 9
+    100232: tiny_rock
+    100234: tiny_rock 1
+    100236: tiny_rock 10
+    100238: tiny_rock 11
+    100240: tiny_rock 12
+    100242: tiny_rock 13
+    100244: tiny_rock 14
+    100246: tiny_rock 15
+    100248: tiny_rock 16
+    100250: tiny_rock 17
+    100252: tiny_rock 18
+    100254: tiny_rock 19
+    100256: tiny_rock 2
+    100258: tiny_rock 20
+    100260: tiny_rock 21
+    100262: tiny_rock 22
+    100264: tiny_rock 23
+    100266: tiny_rock 24
+    100268: tiny_rock 25
+    100270: tiny_rock 26
+    100272: tiny_rock 27
+    100274: tiny_rock 28
+    100276: tiny_rock 29
+    100278: tiny_rock 3
+    100280: tiny_rock 30
+    100282: tiny_rock 31
+    100284: tiny_rock 32
+    100286: tiny_rock 33
+    100288: tiny_rock 34
+    100290: tiny_rock 4
+    100292: tiny_rock 5
+    100294: tiny_rock 6
+    100296: tiny_rock 7
+    100298: tiny_rock 8
+    100300: tiny_rock 9
+    100302: tiny_rock01
+    100304: tiny_rock01 1
+    100306: tiny_rock01 2
+    400000: big_rock
+    400002: big_rock 1
+    400004: big_rock 2
+    400006: big_rock 3
+    400008: bump01
+    400010: bump01 1
+    400012: bump02
+    400014: bump02 1
+    400016: cactus_group
+    400018: cactus_group 1
+    400020: cactus_group 2
+    400022: cactus_group 3
+    400024: cactus_group 4
+    400026: cactus_group 5
+    400028: cactus_group 6
+    400030: cactus_group 7
+    400032: Chris
+    400034: Group 101
+    400036: Group 104
+    400038: Group 106
+    400040: Group 108
+    400042: Group 110
+    400044: Group 112
+    400046: Group 114
+    400048: Group 116
+    400050: Group 119
+    400052: Group 121
+    400054: Group 123
+    400056: Group 125
+    400058: Group 127
+    400060: Group 129
+    400062: Group 131
+    400064: Group 134
+    400066: Group 136
+    400068: Group 138
+    400070: Group 140
+    400072: Group 142
+    400074: Group 144
+    400076: Group 146
+    400078: Group 149
+    400080: Group 151
+    400082: Group 153
+    400084: Group 155
+    400086: Group 157
+    400088: Group 159
+    400090: Group 161
+    400092: Group 164
+    400094: Group 166
+    400096: Group 168
+    400098: Group 170
+    400100: Group 172
+    400102: Group 174
+    400104: Group 176
+    400106: Group 2
+    400108: Group 4
+    400110: Group 59
+    400112: Group 6
+    400114: Group 61
+    400116: Group 63
+    400118: Group 65
+    400120: Group 67
+    400122: Group 69
+    400124: Group 71
+    400126: Group 74
+    400128: Group 76
+    400130: Group 78
+    400132: Group 80
+    400134: Group 82
+    400136: Group 84
+    400138: Group 86
+    400140: Group 89
+    400142: Group 91
+    400144: Group 93
+    400146: Group 95
+    400148: Group 97
+    400150: Group 99
+    400152: //RootNode
+    400154: magic_tree
+    400156: magic_tree 1
+    400158: magic_tree 10
+    400160: magic_tree 11
+    400162: magic_tree 12
+    400164: magic_tree 2
+    400166: magic_tree 3
+    400168: magic_tree 4
+    400170: magic_tree 5
+    400172: magic_tree 6
+    400174: magic_tree 7
+    400176: magic_tree 8
+    400178: magic_tree 9
+    400180: rock01
+    400182: rock_02
+    400184: rock_02 1
+    400186: rock_02 2
+    400188: rock_02 3
+    400190: rock_group01
+    400192: rock_group02
+    400194: rock_group02 1
+    400196: rock_group02 2
+    400198: rock_group03
+    400200: small_bump
+    400202: small_bump 1
+    400204: small_bump 2
+    400206: small_bump 3
+    400208: small_tree
+    400210: small_tree 1
+    400212: small_tree 10
+    400214: small_tree 11
+    400216: small_tree 2
+    400218: small_tree 3
+    400220: small_tree 4
+    400222: small_tree 5
+    400224: small_tree 6
+    400226: small_tree 7
+    400228: small_tree 8
+    400230: small_tree 9
+    400232: tiny_rock
+    400234: tiny_rock 1
+    400236: tiny_rock 10
+    400238: tiny_rock 11
+    400240: tiny_rock 12
+    400242: tiny_rock 13
+    400244: tiny_rock 14
+    400246: tiny_rock 15
+    400248: tiny_rock 16
+    400250: tiny_rock 17
+    400252: tiny_rock 18
+    400254: tiny_rock 19
+    400256: tiny_rock 2
+    400258: tiny_rock 20
+    400260: tiny_rock 21
+    400262: tiny_rock 22
+    400264: tiny_rock 23
+    400266: tiny_rock 24
+    400268: tiny_rock 25
+    400270: tiny_rock 26
+    400272: tiny_rock 27
+    400274: tiny_rock 28
+    400276: tiny_rock 29
+    400278: tiny_rock 3
+    400280: tiny_rock 30
+    400282: tiny_rock 31
+    400284: tiny_rock 32
+    400286: tiny_rock 33
+    400288: tiny_rock 34
+    400290: tiny_rock 4
+    400292: tiny_rock 5
+    400294: tiny_rock 6
+    400296: tiny_rock 7
+    400298: tiny_rock 8
+    400300: tiny_rock 9
+    400302: tiny_rock01
+    400304: tiny_rock01 1
+    400306: tiny_rock01 2
+    2300000: big_rock
+    2300002: big_rock 1
+    2300004: big_rock 2
+    2300006: big_rock 3
+    2300008: bump01
+    2300010: bump01 1
+    2300012: bump02
+    2300014: bump02 1
+    2300016: Chris
+    2300018: Group 101
+    2300020: Group 104
+    2300022: Group 106
+    2300024: Group 108
+    2300026: Group 110
+    2300028: Group 112
+    2300030: Group 114
+    2300032: Group 116
+    2300034: Group 119
+    2300036: Group 121
+    2300038: Group 123
+    2300040: Group 125
+    2300042: Group 127
+    2300044: Group 129
+    2300046: Group 131
+    2300048: Group 134
+    2300050: Group 136
+    2300052: Group 138
+    2300054: Group 140
+    2300056: Group 142
+    2300058: Group 144
+    2300060: Group 146
+    2300062: Group 149
+    2300064: Group 151
+    2300066: Group 153
+    2300068: Group 155
+    2300070: Group 157
+    2300072: Group 159
+    2300074: Group 161
+    2300076: Group 164
+    2300078: Group 166
+    2300080: Group 168
+    2300082: Group 170
+    2300084: Group 172
+    2300086: Group 174
+    2300088: Group 176
+    2300090: Group 2
+    2300092: Group 4
+    2300094: Group 59
+    2300096: Group 6
+    2300098: Group 61
+    2300100: Group 63
+    2300102: Group 65
+    2300104: Group 67
+    2300106: Group 69
+    2300108: Group 71
+    2300110: Group 74
+    2300112: Group 76
+    2300114: Group 78
+    2300116: Group 80
+    2300118: Group 82
+    2300120: Group 84
+    2300122: Group 86
+    2300124: Group 89
+    2300126: Group 91
+    2300128: Group 93
+    2300130: Group 95
+    2300132: Group 97
+    2300134: Group 99
+    2300136: //RootNode
+    2300138: magic_tree
+    2300140: magic_tree 1
+    2300142: magic_tree 10
+    2300144: magic_tree 11
+    2300146: magic_tree 12
+    2300148: magic_tree 2
+    2300150: magic_tree 3
+    2300152: magic_tree 4
+    2300154: magic_tree 5
+    2300156: magic_tree 6
+    2300158: magic_tree 7
+    2300160: magic_tree 8
+    2300162: magic_tree 9
+    2300164: rock01
+    2300166: rock_02
+    2300168: rock_02 1
+    2300170: rock_02 2
+    2300172: rock_02 3
+    2300174: rock_group01
+    2300176: rock_group02
+    2300178: rock_group02 1
+    2300180: rock_group02 2
+    2300182: rock_group03
+    2300184: small_bump
+    2300186: small_bump 1
+    2300188: small_bump 2
+    2300190: small_bump 3
+    2300192: small_tree
+    2300194: small_tree 1
+    2300196: small_tree 10
+    2300198: small_tree 11
+    2300200: small_tree 2
+    2300202: small_tree 3
+    2300204: small_tree 4
+    2300206: small_tree 5
+    2300208: small_tree 6
+    2300210: small_tree 7
+    2300212: small_tree 8
+    2300214: small_tree 9
+    2300216: tiny_rock
+    2300218: tiny_rock 1
+    2300220: tiny_rock 10
+    2300222: tiny_rock 11
+    2300224: tiny_rock 12
+    2300226: tiny_rock 13
+    2300228: tiny_rock 14
+    2300230: tiny_rock 15
+    2300232: tiny_rock 16
+    2300234: tiny_rock 17
+    2300236: tiny_rock 18
+    2300238: tiny_rock 19
+    2300240: tiny_rock 2
+    2300242: tiny_rock 20
+    2300244: tiny_rock 21
+    2300246: tiny_rock 22
+    2300248: tiny_rock 23
+    2300250: tiny_rock 24
+    2300252: tiny_rock 25
+    2300254: tiny_rock 26
+    2300256: tiny_rock 27
+    2300258: tiny_rock 28
+    2300260: tiny_rock 29
+    2300262: tiny_rock 3
+    2300264: tiny_rock 30
+    2300266: tiny_rock 31
+    2300268: tiny_rock 32
+    2300270: tiny_rock 33
+    2300272: tiny_rock 34
+    2300274: tiny_rock 4
+    2300276: tiny_rock 5
+    2300278: tiny_rock 6
+    2300280: tiny_rock 7
+    2300282: tiny_rock 8
+    2300284: tiny_rock 9
+    2300286: tiny_rock01
+    2300288: tiny_rock01 1
+    2300290: tiny_rock01 2
+    3300000: big_rock
+    3300002: big_rock 1
+    3300004: big_rock 2
+    3300006: big_rock 3
+    3300008: bump01
+    3300010: bump01 1
+    3300012: bump02
+    3300014: bump02 1
+    3300016: Chris
+    3300018: Group 101
+    3300020: Group 104
+    3300022: Group 106
+    3300024: Group 108
+    3300026: Group 110
+    3300028: Group 112
+    3300030: Group 114
+    3300032: Group 116
+    3300034: Group 119
+    3300036: Group 121
+    3300038: Group 123
+    3300040: Group 125
+    3300042: Group 127
+    3300044: Group 129
+    3300046: Group 131
+    3300048: Group 134
+    3300050: Group 136
+    3300052: Group 138
+    3300054: Group 140
+    3300056: Group 142
+    3300058: Group 144
+    3300060: Group 146
+    3300062: Group 149
+    3300064: Group 151
+    3300066: Group 153
+    3300068: Group 155
+    3300070: Group 157
+    3300072: Group 159
+    3300074: Group 161
+    3300076: Group 164
+    3300078: Group 166
+    3300080: Group 168
+    3300082: Group 170
+    3300084: Group 172
+    3300086: Group 174
+    3300088: Group 176
+    3300090: Group 2
+    3300092: Group 4
+    3300094: Group 59
+    3300096: Group 6
+    3300098: Group 61
+    3300100: Group 63
+    3300102: Group 65
+    3300104: Group 67
+    3300106: Group 69
+    3300108: Group 71
+    3300110: Group 74
+    3300112: Group 76
+    3300114: Group 78
+    3300116: Group 80
+    3300118: Group 82
+    3300120: Group 84
+    3300122: Group 86
+    3300124: Group 89
+    3300126: Group 91
+    3300128: Group 93
+    3300130: Group 95
+    3300132: Group 97
+    3300134: Group 99
+    3300136: //RootNode
+    3300138: magic_tree
+    3300140: magic_tree 1
+    3300142: magic_tree 10
+    3300144: magic_tree 11
+    3300146: magic_tree 12
+    3300148: magic_tree 2
+    3300150: magic_tree 3
+    3300152: magic_tree 4
+    3300154: magic_tree 5
+    3300156: magic_tree 6
+    3300158: magic_tree 7
+    3300160: magic_tree 8
+    3300162: magic_tree 9
+    3300164: rock01
+    3300166: rock_02
+    3300168: rock_02 1
+    3300170: rock_02 2
+    3300172: rock_02 3
+    3300174: rock_group01
+    3300176: rock_group02
+    3300178: rock_group02 1
+    3300180: rock_group02 2
+    3300182: rock_group03
+    3300184: small_bump
+    3300186: small_bump 1
+    3300188: small_bump 2
+    3300190: small_bump 3
+    3300192: small_tree
+    3300194: small_tree 1
+    3300196: small_tree 10
+    3300198: small_tree 11
+    3300200: small_tree 2
+    3300202: small_tree 3
+    3300204: small_tree 4
+    3300206: small_tree 5
+    3300208: small_tree 6
+    3300210: small_tree 7
+    3300212: small_tree 8
+    3300214: small_tree 9
+    3300216: tiny_rock
+    3300218: tiny_rock 1
+    3300220: tiny_rock 10
+    3300222: tiny_rock 11
+    3300224: tiny_rock 12
+    3300226: tiny_rock 13
+    3300228: tiny_rock 14
+    3300230: tiny_rock 15
+    3300232: tiny_rock 16
+    3300234: tiny_rock 17
+    3300236: tiny_rock 18
+    3300238: tiny_rock 19
+    3300240: tiny_rock 2
+    3300242: tiny_rock 20
+    3300244: tiny_rock 21
+    3300246: tiny_rock 22
+    3300248: tiny_rock 23
+    3300250: tiny_rock 24
+    3300252: tiny_rock 25
+    3300254: tiny_rock 26
+    3300256: tiny_rock 27
+    3300258: tiny_rock 28
+    3300260: tiny_rock 29
+    3300262: tiny_rock 3
+    3300264: tiny_rock 30
+    3300266: tiny_rock 31
+    3300268: tiny_rock 32
+    3300270: tiny_rock 33
+    3300272: tiny_rock 34
+    3300274: tiny_rock 4
+    3300276: tiny_rock 5
+    3300278: tiny_rock 6
+    3300280: tiny_rock 7
+    3300282: tiny_rock 8
+    3300284: tiny_rock 9
+    3300286: tiny_rock01
+    3300288: tiny_rock01 1
+    3300290: tiny_rock01 2
+    4300000: Mesh lowpoly_small_2015
+    4300002: Mesh Group 2
+    4300004: Mesh Group 4
+    4300006: Mesh Group 6
+    4300008: Mesh Chris
+    4300010: Mesh big_rock
+    4300012: Mesh rock_group01
+    4300014: Mesh rock_group02
+    4300016: Mesh rock_group03
+    4300018: Mesh rock01
+    4300020: Mesh rock_02
+    4300022: Mesh rock_02
+    4300024: Mesh bump01
+    4300026: Mesh bump02
+    4300028: Mesh tiny_rock01
+    4300030: Mesh small_bump
+    4300032: Mesh Group 59
+    4300034: Mesh tiny_rock
+    4300036: Mesh magic_tree
+    4300038: Mesh small_tree
+    6400000: big_rock
+    6400002: big_rock 1
+    6400004: big_rock 2
+    6400006: big_rock 3
+    6400008: bump01
+    6400010: bump01 1
+    6400012: bump02
+    6400014: bump02 1
+    6400016: Chris
+    6400018: Group 101
+    6400020: Group 104
+    6400022: Group 106
+    6400024: Group 108
+    6400026: Group 110
+    6400028: Group 112
+    6400030: Group 114
+    6400032: Group 116
+    6400034: Group 119
+    6400036: Group 121
+    6400038: Group 123
+    6400040: Group 125
+    6400042: Group 127
+    6400044: Group 129
+    6400046: Group 131
+    6400048: Group 134
+    6400050: Group 136
+    6400052: Group 138
+    6400054: Group 140
+    6400056: Group 142
+    6400058: Group 144
+    6400060: Group 146
+    6400062: Group 149
+    6400064: Group 151
+    6400066: Group 153
+    6400068: Group 155
+    6400070: Group 157
+    6400072: Group 159
+    6400074: Group 161
+    6400076: Group 164
+    6400078: Group 166
+    6400080: Group 168
+    6400082: Group 170
+    6400084: Group 172
+    6400086: Group 174
+    6400088: Group 176
+    6400090: Group 2
+    6400092: Group 4
+    6400094: Group 59
+    6400096: Group 6
+    6400098: Group 61
+    6400100: Group 63
+    6400102: Group 65
+    6400104: Group 67
+    6400106: Group 69
+    6400108: Group 71
+    6400110: Group 74
+    6400112: Group 76
+    6400114: Group 78
+    6400116: Group 80
+    6400118: Group 82
+    6400120: Group 84
+    6400122: Group 86
+    6400124: Group 89
+    6400126: Group 91
+    6400128: Group 93
+    6400130: Group 95
+    6400132: Group 97
+    6400134: Group 99
+    6400136: //RootNode
+    6400138: magic_tree
+    6400140: magic_tree 1
+    6400142: magic_tree 10
+    6400144: magic_tree 11
+    6400146: magic_tree 12
+    6400148: magic_tree 2
+    6400150: magic_tree 3
+    6400152: magic_tree 4
+    6400154: magic_tree 5
+    6400156: magic_tree 6
+    6400158: magic_tree 7
+    6400160: magic_tree 8
+    6400162: magic_tree 9
+    6400164: rock01
+    6400166: rock_02
+    6400168: rock_02 1
+    6400170: rock_02 2
+    6400172: rock_02 3
+    6400174: rock_group01
+    6400176: rock_group02
+    6400178: rock_group02 1
+    6400180: rock_group02 2
+    6400182: rock_group03
+    6400184: small_bump
+    6400186: small_bump 1
+    6400188: small_bump 2
+    6400190: small_bump 3
+    6400192: small_tree
+    6400194: small_tree 1
+    6400196: small_tree 10
+    6400198: small_tree 11
+    6400200: small_tree 2
+    6400202: small_tree 3
+    6400204: small_tree 4
+    6400206: small_tree 5
+    6400208: small_tree 6
+    6400210: small_tree 7
+    6400212: small_tree 8
+    6400214: small_tree 9
+    6400216: tiny_rock
+    6400218: tiny_rock 1
+    6400220: tiny_rock 10
+    6400222: tiny_rock 11
+    6400224: tiny_rock 12
+    6400226: tiny_rock 13
+    6400228: tiny_rock 14
+    6400230: tiny_rock 15
+    6400232: tiny_rock 16
+    6400234: tiny_rock 17
+    6400236: tiny_rock 18
+    6400238: tiny_rock 19
+    6400240: tiny_rock 2
+    6400242: tiny_rock 20
+    6400244: tiny_rock 21
+    6400246: tiny_rock 22
+    6400248: tiny_rock 23
+    6400250: tiny_rock 24
+    6400252: tiny_rock 25
+    6400254: tiny_rock 26
+    6400256: tiny_rock 27
+    6400258: tiny_rock 28
+    6400260: tiny_rock 29
+    6400262: tiny_rock 3
+    6400264: tiny_rock 30
+    6400266: tiny_rock 31
+    6400268: tiny_rock 32
+    6400270: tiny_rock 33
+    6400272: tiny_rock 34
+    6400274: tiny_rock 4
+    6400276: tiny_rock 5
+    6400278: tiny_rock 6
+    6400280: tiny_rock 7
+    6400282: tiny_rock 8
+    6400284: tiny_rock 9
+    6400286: tiny_rock01
+    6400288: tiny_rock01 1
+    6400290: tiny_rock01 2
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
